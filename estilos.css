@@ -45,7 +45,7 @@ nav{
 }
 
 nav > a{
-    color:#fff;
+    color:white;
     font-weight: 300;
     text-decoration: none;
     margin-right: 10px;
@@ -172,6 +172,8 @@ main .sobre-nosotros{
 
 .hover-galeria p{
     color: #fff;
+    font-size:15px;
+    text-align:center ;
 }
 
 .imagen-port:hover .hover-galeria{
@@ -279,7 +281,9 @@ footer{
 .content-foo p{
     color: #ccc;
 }
-
+.galeria.text{
+    font: size 10px;
+}
 .titulo-final{
     text-align: center;
     font-size: 24px;
